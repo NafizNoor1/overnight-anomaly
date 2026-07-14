@@ -1,0 +1,14 @@
+# downloaded price data (re-created by run_all.py)
+data/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build artefacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg

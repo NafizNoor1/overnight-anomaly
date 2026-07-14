@@ -1,0 +1,4 @@
+,mean_overnight_bps,mean_intraday_bps,n_days
+FOMC announcement day,13.38,11.17,259.0
+day after FOMC,1.56,-3.83,257.0
+all other days,3.78,0.58,7903.0

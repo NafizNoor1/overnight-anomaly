@@ -1,0 +1,11 @@
+{
+  "sample": "1993-02-01 to 2026-07-14",
+  "n_days": 8419,
+  "overnight_ann_return_%": 9.99,
+  "overnight_sharpe": 0.95,
+  "intraday_ann_return_%": 0.78,
+  "intraday_sharpe": 0.13,
+  "daily_ann_return_%": 10.85,
+  "daily_sharpe": 0.65,
+  "breakeven_round_trip_bps": 4.0
+}
